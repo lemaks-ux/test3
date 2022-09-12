@@ -4,3 +4,5 @@ Param(
 )
 Write-Host "Hello world" from $greeter
 Write-Host Trigger: $trigger
+
+Write-Host "Hello world 2"
